@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./relatioitinerisi00jesurich_0002.png"; bbox 0 0 1986 3292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 357 1209 414">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 529 357 1209 414">
+     <span class='ocr_line' id='line_1_1' title="bbox 529 357 1209 414; baseline -0.01 -4"><span class='ocrx_word' id='word_1_1' title='bbox 529 357 788 410; x_wconf 75' lang='lat' dir='ltr'>REESE</span> <span class='ocrx_word' id='word_1_2' title='bbox 832 359 1209 414; x_wconf 70' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 799 477 923 497">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 799 477 923 497">
+     <span class='ocr_line' id='line_1_2' title="bbox 799 477 923 497; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 799 477 840 496; x_wconf 78' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 855 478 899 497; x_wconf 75' lang='grc' dir='ltr'><strong>ΤΗ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 905 479 923 496; x_wconf 78' lang='grc' dir='ltr'>Ε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 239 530 1539 644">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 166 522 1539 644">
+     <span class='ocr_line' id='line_1_3' title="bbox 239 530 1539 644; baseline 0.004 -34.734"><span class='ocrx_word' id='word_1_6' title='bbox 239 548 764 644; x_wconf 52' lang='grc' dir='ltr'><strong>·ὐΝΙνΕΒ5ζΤΥ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 801 560 904 610; x_wconf 85' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 941 560 1459 615; x_wconf 73' lang='lat' dir='ltr'><strong>CALIFORNIA.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1532 530 1539 598; x_wconf 56' lang='grc' dir='ltr'>ἓ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 611 726 822 767">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 611 726 822 767">
+     <span class='ocr_line' id='line_1_4' title="bbox 611 726 822 767; baseline 0 -1"><span class='ocrx_word' id='word_1_10' title='bbox 611 726 727 766; x_wconf 57' lang='lat' dir='ltr'><em>Classs</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 745 726 822 767; x_wconf 84' lang='lat' dir='ltr'><strong>No.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 80 132 1986 2911">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 80 132 1986 2911">
+     <span class='ocr_line' id='line_1_5' title="bbox 80 132 1986 2911; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 80 132 1986 2911; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
